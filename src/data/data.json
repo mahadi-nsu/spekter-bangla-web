@@ -86,27 +86,27 @@
         {
             "img": "img/team/1.png",
             "name": "Matze",
-            "job": "Director"
+            "job": "CTO"
         },
         {
             "img": "img/team/2.jpg",
             "name": "Mahadi Hasan",
-            "job": "Senior Designer"
+            "job": "Software Engineer"
         },
         {
             "img": "img/team/3.jpg",
             "name": "Julian",
-            "job": "Senior Designer"
+            "job": "Sr. Software Engineer"
         },
         {
             "img": "img/team/4.jpg",
             "name": "Linkon Siddik",
-            "job": "Project Manager"
+            "job": "Jr. Software Engineer"
         },
         {
             "img": "img/team/5.jpg",
             "name": "Sohag",
-            "job": "Project Manager"
+            "job": "Jr. Software Engineer"
         }
     ],
     "Contact": {
