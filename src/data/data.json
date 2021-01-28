@@ -4,18 +4,16 @@
         "paragraph": "We are using cutting-edge technology to buildup beautiful, responsive, user-friendly web and mobile applications."
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "We are Spekter Bangla, a start-up software company of Bangladesh. We provide best software solutions in various platform like Mobile and Web. Our target is to fulfill clients requirements and give them best software experience.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Best Development Practices",
+            "Pragmatic Approach",
+            "Cost Effective",
+            "End User Focus"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Flexible",
+            "Structured Software Planning"
         ]
     },
     "Services": [
@@ -119,24 +117,24 @@
     },
     "Features": [
         {
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-mobile",
+            "title": "Mobile Application",
+            "text": "Flutter, Dart, Java, Kotlin, React Native"
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-code",
+            "title": "Frontend",
+            "text": "HTML, CSS, Bootstrap, React, Vue"
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-code",
+            "title": "Backend",
+            "text": "Node, Django, ASP.NET, Spring"
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-database",
+            "title": "Database",
+            "text": "MySQL, MongoDB, MSSQL, Oracle, SQLite"
         }
     ]
 }
