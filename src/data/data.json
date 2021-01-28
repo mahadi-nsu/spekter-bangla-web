@@ -83,28 +83,28 @@
     "Team": [
         {
             "img": "img/team/1.png",
-            "name": "Matze",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/2.jpg",
-            "name": "Mahadi Hasan",
-            "job": "Senior Designer"
+            "name": "Matze Falk",
+            "job": "CTO"
         },
         {
             "img": "img/team/3.jpg",
-            "name": "Julian",
-            "job": "Senior Designer"
+            "name": "Julian Falk",
+            "job": "Sr. Software Engineer"
+        },
+        {
+            "img": "img/team/2.jpg",
+            "name": "Mahadi Hassan",
+            "job": "Software Engineer"
         },
         {
             "img": "img/team/4.jpg",
-            "name": "Linkon Siddik",
-            "job": "Project Manager"
+            "name": "Linkon Siddique",
+            "job": "Jr. Software Engineer"
         },
         {
             "img": "img/team/5.jpg",
             "name": "Sohag",
-            "job": "Project Manager"
+            "job": "Jr. Software Engineer"
         }
     ],
     "Contact": {
@@ -127,7 +127,7 @@
             "text": "HTML, CSS, Bootstrap, React, Vue"
         },
         {
-            "icon": "fa fa-code",
+            "icon": "fa fa-terminal",
             "title": "Backend",
             "text": "Node, Django, ASP.NET, Spring"
         },
